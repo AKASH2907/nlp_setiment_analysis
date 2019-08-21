@@ -6,7 +6,6 @@
 
 This dataset is available at this [Github repo](https://github.com/Tariq60/LIAR-PLUS).
 
-<br><br>
 This dataset has evidence sentences extracted automatically from the full-text verdict report written by journalists in Politifact. Objective of this dataset is to provide a benchmark for evidence retrieval and show empirically that including evidence information in any automatic fake news detection method (regardless of features or classifier) always results in superior performance to any method lacking such information.
 <br><br>
 Below is the description of the TSV file taken as is from the original [LIAR dataset](https://www.cs.ucsb.edu/~william/data/liar_dataset.zip), which was published in this [paper](https://www.aclweb.org/anthology/P17-2067). A new column is added at the end that has the extracted justification.
